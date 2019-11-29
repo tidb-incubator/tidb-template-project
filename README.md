@@ -10,12 +10,11 @@ The PingCAP Template Project is a template for starting new projects in the Ping
 
 ## Community, discussion, contribution, and support
 
-Learn how to engage with the PingCAP community on the [community page](https://github.com/pingcap/community) and TiKV community on the [TiKV community page][https://github.com/tikv/community].
+Learn how to engage with the PingCAP community on the [community page](https://github.com/pingcap/community) and TiKV community on the [TiKV community page](https://github.com/tikv/community).
 
 You can reach the maintainers of this project at:
 
 - [Slack: tidbcommunity](https://tidbcommunity.slack.com/)
-- [Slack: tikv-wg](https://tikv-wg.slack.com/)
 
 ### Code of conduct
 
