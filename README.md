@@ -6,7 +6,7 @@ The PingCAP Template Project is a template for starting new projects in the Ping
 - an `OWNERS` with the project leads listed as committers
 - a `CONTRIBUTING.md` outlining how to contribute to the project
 - an unmodified copy of `code-of-conduct.md` from this repo, which outlines community behavior and the consequences of breaking the code
-- a `LICENSE` which must be Apache 2.0 for code projects, or [Creative Commons 4.0] for documentation repositories, without any custom content
+- a `LICENSE` which must be Apache 2.0 for code projects and documentation repositories, without any custom content
 
 ## Community, discussion, contribution, and support
 
